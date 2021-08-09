@@ -1,0 +1,14 @@
+var name = prompt('ismingizni kiriting');
+console.log("mening ismim: " + name);
+var age = +prompt('yoshingizni kiriting');
+console.log('Men ' + age + ' yoshdaman');
+var ex1 = +prompt('6+3=?');
+console.log('Misol 1: ' + '6 + 3 = 9 ' + 'Sizning javob ' + ex1);
+var ex2 = +prompt('20-5=?');
+console.log('Misol 2: ' + '20 - 5 = 15 ' + 'Sizning javob ' + ex2);
+var ex3 = +prompt('15*2=?');
+console.log('Misol 3: ' + '15 * 2 = 30 ' + 'Sizning javob ' + ex3);
+var ex4 = +prompt('8/4=?');
+console.log('Misol 4: ' + '8 / 4 = 2 ' + 'Sizning javob ' + ex4);
+var ex5 = +prompt('10%3=?');
+console.log('Misol 5: ' + '10 % 3 = 1 ' + 'Sizning javob ' + ex5);
